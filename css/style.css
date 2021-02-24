@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@600&display=swap');
+
+body{font-family: 'Sarabun', sans-serif;}
+
+.tableWidth{
+    width: 100;
+}
+.tableBorder{
+    border: 1px solid rgb(0, 0, 0) ;
+}
+.th1Table2 {
+    background-color: rgb(105, 248, 105);
+}
+.th2Table2{
+    background-color: darkturquoise;
+}
+.th3Table2{
+    background-color: rgb(105, 248, 105);
+}
+.th4Table2{
+    background-color: darkturquoise;
+}
+.th5Table2{
+    background-color: rgb(105, 248, 105);
+}
